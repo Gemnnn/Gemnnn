@@ -2,7 +2,6 @@
 
 ## Social Media: 
 [![Linkedin Badge](https://img.shields.io/badge/-Branden_Min-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandenmin/)](https://www.linkedin.com/in/brandenmin/)
-[![Youtube Badge](https://img.shields.io/badge/-Branden_Min-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@minbu/featured)](https://www.youtube.com/@minbu/featured)
 
 <hr/>
 
