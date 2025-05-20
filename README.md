@@ -33,6 +33,6 @@
 
 <hr/>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prasant-Pradeep&left_color=green&right_color=blue" />
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gemnnn&left_color=yellow&right_color=green" />
 </p>
