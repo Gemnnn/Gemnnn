@@ -31,4 +31,8 @@
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
 </p>
 
+<hr/>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prasant-Pradeep&left_color=green&right_color=blue" />
+</p>
